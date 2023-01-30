@@ -1,0 +1,6 @@
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/bin/Debug/Tselochislennie.exe
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/bin/Debug/Tselochislennie.pdb
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/obj/Debug/Tselochislennie.csprojAssemblyReference.cache
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/obj/Debug/Tselochislennie.csproj.CoreCompileInputs.cache
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/obj/Debug/Tselochislennie.exe
+/Users/kardachh/RiderProjects/Tselochislennie/Tselochislennie/obj/Debug/Tselochislennie.pdb
